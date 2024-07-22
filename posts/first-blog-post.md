@@ -1,7 +1,7 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: scavenger hunt
+published_at: 2024-07-22
+snippet: This is my scavenger blog post.
 disable_html_sanitization: true
 allow_math: true
 ---
