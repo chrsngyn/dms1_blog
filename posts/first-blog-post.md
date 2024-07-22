@@ -12,6 +12,28 @@ allow_math: true
 
 ^ images are written like this: `![description](file_path/file_name.png)`
 
+## What was found on the scavenger hunt
+![wide_strung_net](paper_net.jpg)
+A wide net strung above, bulging under the weight of its flying paper cargo.
+
+![root_curtain](vines.jpg)
+A curtain of roots, delivered by a winged visitor.
+
+![door](jail_door.jpg)
+A door for the condemned.
+
+![starwars](space_station.jpg)
+A study space fit for a sith lord.
+
+![ape](gorilla_hands.jpg)
+The disembodied hands of a great ape.
+
+![box](black_box.jpg)
+A basement-dwelling Black Box, bigger than you might think.
+
+![vendor](vending_machine.jpg)
+A wide machine, dispensing beverages from a far away land.
+
 ## This is h2
 
 *This is italic.*[^1]
